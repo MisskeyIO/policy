@@ -3,7 +3,7 @@
 ## Misskey公式インスタンスについて
 マイクロブログSNS Misskey公式インスタンス(以下「当インスタンス」)は  
 オープンソースで開発されているMisskeyの公式インスタンスで  
-アドレスは [https://misskey.xyz](https://misskey.xyz) です。
+アドレスは [https://misskey.io](https://misskey.io) です。
 
 
 当インスタンスにおけるプライバシー情報の取り扱いについて  
