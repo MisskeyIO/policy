@@ -3,7 +3,7 @@
 ## About Misskey Official Instance
 The microblog SNS Misskey official instance ("instance" below) is an official instance  
 of Misskey developed as an open source.  
-The website address is [https://misskey.xyz](https://misskey.xyz) .
+The website address is [https://misskey.io](https://misskey.io) .
 
 
 For the handling of privacy information of this instance,  
