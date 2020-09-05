@@ -21,7 +21,9 @@ the following privacy policy ("Policy") is defined in the GitHub repository ("We
 	the above-mentioned "personal information",  
 	and refers to information such as a page visited by  
 	a user, search query, usage time, usage method, usage environment, age, user IP address, Information,  
-	and object identification information of the terminal.
+	and object identification information of the terminal.  
+	In addition, if the user agrees, we will use Google Analytics, an access analysis tool by Google.  
+	[Google Analytics Terms of Use here](https://marketingplatform.google.com/about/analytics/terms/us/).
 
 
 ### 2. About collecting privacy information
