@@ -6,7 +6,7 @@ Violations of these rules may result in the restriction of your account.
 ---
 
 ## Prohibited Acts.
-Any of the following actions will result in a freeze or account deletion
+Any of the following actions will result in a suspend or BAN
 
 * Intentionally overloading the server
 * Posting or uploading of content that violates the laws of Japan
@@ -27,7 +27,7 @@ Any other actions that are deemed inappropriate.
 If a Bot falls under any of the following categories, the Bot developer will be obligated to take action.  
 All Bot Admins are required to check regularly to see what type of bot submissions are being made.  
   
-If any of the following measures are not taken and the Bot account is misused, we may freeze the Bot account.
+If any of the following measures are not taken and the Bot account is misused, we may suspend the Bot account.
 
 * A bot uses search engines to automatically post images from keywords.
   * Please filter and configure NSFW settings to avoid displaying inappropriate images.
@@ -46,7 +46,7 @@ For the operation of the service, misskey.io collects the following information.
 
 The information collected will be used only for the following purposes and will not be used for any other purposes.
 * To provide the service, such as an email notification function
-* To warn or freeze accounts of users who violate the Terms of Service.
+* To warn or suspend accounts of users who violate the Terms of Service.
 * To improve the service experience.
 
 We will not disclose this information to any third party, except when required by Japanese law.  
