@@ -42,14 +42,16 @@ misskey.ioをご利用いただく際は、下記ルールを基準にマナー�
 サービス運営のため、misskey.ioは以下の情報を収集します。
 * Eメールアドレス(設定した場合)
 * IPアドレス
+* その他[プライバシーポリシー](https://github.com/MisskeyIO/policy/blob/master/privacy.md)に記載されている情報
 
 収集する情報は以下の目的に限って利用し、この目的以外では利用しません。
 * メール通知機能など、本サービスの提供をするため
 * 利用規約違反ユーザの警告やアカウント凍結のため
+* サービス体験の向上のため
 
 法令に基づく要請がある場合を除いて、これらの情報を第三者に開示することはありません。  
 また、外部に取り扱いを委託することもありません。
 
 ---
 
-## [プライバシーポリシはこちら](https://github.com/MisskeyIO/policy/blob/master/privacy.md)
+## [プライバシーポリシーはこちら](https://github.com/MisskeyIO/policy/blob/master/privacy.md)
