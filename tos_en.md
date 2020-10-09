@@ -12,12 +12,18 @@ Any of the following actions will result in a suspend or BAN
 * Posting or uploading of content that violates the laws of Japan
 * Acquisition of an account for the purpose of sale and sale of accounts
 * Advertising to unauthorized websites, adult sites, etc.
+* Directing users to uncommon shopping sites immediately after creating an account
+* Describing company information in your profile immediately after creating an account
+* Posts on topics related to controlled drugs in Japan
+
 
 Any of the following acts will be subject to silence.
 While in Silence, you will not be able to select "Public" from the public range.
 
 * Offensive or malicious extremist comments
 * Posts containing explicitly sexual media without the alert NSFW flag
+* Posts containing explicitly sexual content with MFM text decoration, ASCII art, etc.
+* Renote any of the above without CW
 
 Any other actions that are deemed inappropriate.
 
