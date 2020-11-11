@@ -9,6 +9,7 @@ The website address is [https://misskey.io](https://misskey.io) .
 For the handling of privacy information of this instance,  
 the following privacy policy ("Policy") is defined in the GitHub repository ("Website") as follows.
 
+If there is any conflict between the Japanese version of the Policy and a version translated into another language, the Japanese version shall prevail.
 
 ## The reason for collecting personal information that this instance collects
 ### 1. About privacy information
@@ -29,15 +30,13 @@ the following privacy policy ("Policy") is defined in the GitHub repository ("We
 ### 2. About collecting privacy information
 1. This instance may require you to provide personal information such as your date of birth and email address when you register.
 
-2. This instance includes the service used for the user, the page visited by the software,  
-	the search keyword, the usage time, the usage method,  
-	the usage environment (including various setting information when using the communication status of the terminal when using the terminal),  
-	the IP address, History information such as location information, object identification information of the terminal,  
-	and property information when the user uses this instance or views the page.
+2. When you use this instance or visit web pages of this instance, we may automatically collect historical and characteristic information such as services and software used, pages viewed,
+	search keywords, usage time, usage method, usage environment (including various setting information when using the communication status of the terminal when using the terminal),
+	IP addresses, cookie information, location information, and terminal identification information.
 
 
 ### 3. About the purpose of collecting and using personal information
-The purpose of this instance is to collect and use personal information.
+We may use the personal information we collect from you for the following purposes:
 
 1. To allow users to view their registration information and to display information  
 	about the registration information and services used to view the modified usage
@@ -55,29 +54,29 @@ The purpose of this instance is to collect and use personal information.
 6. The purpose for the purposes of the above use
 
 ### 4. About third party provision of personal information
-1. The instance does not provide personal information to third parties without prior consent of the user,  
-	including However, this does not apply to cases where the Personal Information Protection Act or  
+1. The instance does not provide personal information to third parties without prior consent of the user, except in the following cases. 
+	However, this does not apply to cases where the Personal Information Protection Act or  
 	other statute permits or the date of birth registered as the user's public information.
 
-1. When it is based on laws and ordinances
+	1. When it is based on laws and ordinances
 
-2. When it is difficult to obtain the consent of the individual as necessary  
-	for the protection of the person's life, body or property.
+	2. When it is difficult to obtain the consent of the individual as necessary  
+		for the protection of the person's life, body or property.
 
-3. When it is difficult to obtain consent of the individual as a special case  
-	for improvement of public sanitation or promotion of healthy upbringing of child.
+	3. When it is difficult to obtain consent of the individual as a special case  
+		for improvement of public sanitation or promotion of healthy upbringing of child.
 
-4. Where a national or local public entity or a person entrusted to it is required to cooperate  
-	in carrying out the affairs prescribed by laws and regulations,  
-	and if there is a risk of impeding the performance of the affairs by obtaining the consent of the individual.
+	4. Where a national or local public entity or a person entrusted to it is required to cooperate  
+		in carrying out the affairs prescribed by laws and regulations,  
+		and if there is a risk of impeding the performance of the affairs by obtaining the consent of the individual.
 
-5. Notice or announcement of the following in advance:
-	1. Purpose of Use Include the offer to a third party.
-	2. Data items provided to third parties.
-	3. Means or methods of providing to third parties.
+	5. Notice or announcement of the following in advance:
+		1. Purpose of Use Include the offer to a third party.
+		2. Data items provided to third parties.
+		3. Means or methods of providing to third parties.
 
 ### 5. About disclosure of personal information
-1. When an instance requests disclosure of personal information from the person concerned,  
+1. When the instance receives requests to disclose personal information from the person concerned,  
 	it will disclose it to the person without delay.
 	However, if any of the following falls due to disclosure,  
 	the whole or a part of the decision to not disclose or make a decision,  
